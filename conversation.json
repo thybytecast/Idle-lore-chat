@@ -1,25 +1,43 @@
 {
-  "title": "Chat with user47",
+  "title": "PIM Messenger",
   "messages": [
     {
       "type": "system",
-      "text": "user47 has entered the chat"
+      "text": "Scoooobadiver has entered the chat"
     },
     {
       "type": "message",
-      "user": "profTerm",
+      "user": "PortTehProto",
       "color": "#0000FF",
-      "text": "Did you finish grading the papers?"
+      "text": "well. well, well, look who it is..."
     },
     {
       "type": "message",
-      "user": "user47",
+      "user": "PortTehProto",
+      "color": "#0000FF",
+      "text": "i TOLD yoy it was free"
+    },
+    {
+      "type": "message",
+      "user": "PortTehProto",
+      "color": "#0000FF"
+      "text": "you*"
+    },
+    {
+      "type": "message",
+      "user": "Scoooobadiver",
       "color": "#008000",
-      "text": "I tried. The terminal froze again."
+      "text": "ok i ADMIT i didnt actually check for a while :p"
+    },
+    {
+      "type": "message",
+      "user": "Scoooobadiver",
+      "color": "#008000",
+      "text": "but tbh i gotta go do stuff il be back l8trrrrr"
     },
     {
       "type": "system",
-      "text": "user47 has left the chat"
+      "text": "Scoooobadiver has left the chat"
     }
   ]
 }
